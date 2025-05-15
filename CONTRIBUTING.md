@@ -14,3 +14,4 @@ Notes and usage details for mmdbctl.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- link the usage section
